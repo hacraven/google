@@ -1,0 +1,19 @@
+/*The style of body elements. Will be included in everything that is in <body>.*/
+body {
+  font-family: 'Josefin Sans', sans-serif;
+
+  background-color: white; 
+  text-align: center;
+}
+
+/*The style of footer.*/
+footer {
+  margin: 3px;
+  padding: 5px;
+  font-size: .5em;
+}
+
+.G {
+  text-color: blue;
+}
+
